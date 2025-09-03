@@ -1,0 +1,13 @@
+{
+	"products": [
+		{ "ProductSeries": "FS-10798", "PartNumber": "25364" },
+		{ "ProductSeries": "FS-10798", "PartNumber": "25365" },
+		{ "ProductSeries": "FS-200", "PartNumber": "26615" },
+		{ "ProductSeries": "FS-200", "PartNumber": "26616" },
+		{ "ProductSeries": "FS-200", "PartNumber": "26838" },
+		{ "ProductSeries": "FS-400", "PartNumber": "26600" },
+		{ "ProductSeries": "FS-400", "PartNumber": "26601" },
+		{ "ProductSeries": "FS-500", "PartNumber": "170232" },
+		{ "ProductSeries": "FS-500", "PartNumber": "170233" }
+	]
+}

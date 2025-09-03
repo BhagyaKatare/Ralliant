@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+
+# Playwright reports
+playwright-report/
+test-results/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Auth secrets
+auth.json
