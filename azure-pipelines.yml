@@ -28,7 +28,7 @@ steps:
     addSpnToEnvironment: true
     workingDirectory: './tests'
 
-  # Publish Playwright HTML report as pipeline artifact
+  # Publish Playwright HTML report as pipeline artifact  
   - task: PublishPipelineArtifact@1
     displayName: "Upload Playwright report"
     inputs:
